@@ -195,7 +195,7 @@
    * - 15
      - Хорошун Альберт
      - KhorAMus_
-     - |15.dz1.2|_
+     - |15.dz1.1|_ |15.dz1.2|_ |15.dz1.3-4|_
      -
      -
      -
@@ -241,6 +241,10 @@
 .. _10.dz1.3: https://gist.github.com/YuriySimakov/92628b1482de58c0c8b4
 .. |10.dz1.4| replace:: 4
 .. _10.dz1.4: https://gist.github.com/YuriySimakov/c81091908811a8684035
+.. |15.dz1.1| replace:: 1
+.. _15.dz1.1: https://github.com/KhorAMus/Exercise1-1
+.. |15.dz1.3-4| replace:: 3-4
+.. _15.dz1.3-4: https://gist.github.com/KhorAMus/b15f96b784fa4663a3fd 
 .. Домашняя работа #2
 
 
